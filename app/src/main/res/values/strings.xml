@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stratificator</string>
+    <string name="create_condition_button_string_res">Добавить условие</string>
+    <string name="reresh_button_string_res">Обновить</string>
+    <string name="condition_edit_text_sting_res">Формат: 0.000000–1.0</string>
+    <string name="Elem_delete_res_string">X</string>
+</resources>
